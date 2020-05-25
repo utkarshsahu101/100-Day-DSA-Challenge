@@ -37,4 +37,28 @@ GFG
 
 4.[Remove duplicate elements from sorted Array](https://practice.geeksforgeeks.org/problems/remove-duplicate-elements-from-sorted-array/1)
 
+5.[Count possible triangles](https://practice.geeksforgeeks.org/problems/count-possible-triangles/0#ExpectOP)
+
+```
+
+# Day3
+
+```
+LeetCode
+[13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/)
+[14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/submissions/)
+```
+
+```
+GFG
+1.[Palindrome String](https://practice.geeksforgeeks.org/problems/palindrome-string/0)
+
+2.[Anagram](https://practice.geeksforgeeks.org/problems/anagram/0)
+
+3.[Anagram Palindrome](https://practice.geeksforgeeks.org/problems/anagram-palindrome/0)
+
+4.[Upper case conversion](https://practice.geeksforgeeks.org/problems/upper-case-conversion/0)
+
+5.[Sort the string in descending order](https://practice.geeksforgeeks.org/problems/sort-the-string-in-descending-order/0)
+
 ```
