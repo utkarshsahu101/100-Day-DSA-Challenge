@@ -63,3 +63,17 @@
 5.[Sort the string in descending order](https://practice.geeksforgeeks.org/problems/sort-the-string-in-descending-order/0)
 
 ---
+
+# Day 6
+
+> GFG
+
+1.[Print Pattern](https://practice.geeksforgeeks.org/problems/print-pattern/0)
+
+2.[Handshakes](https://practice.geeksforgeeks.org/problems/handshakes/0)
+
+3.[Tower of Hanoi](https://practice.geeksforgeeks.org/problems/tower-of-hanoi/0)
+
+4.[Josephus problem](https://practice.geeksforgeeks.org/problems/josephus-problem/1)
+
+5.[Recursively remove all adjacent duplicates](https://practice.geeksforgeeks.org/problems/recursively-remove-all-adjacent-duplicates/0)
