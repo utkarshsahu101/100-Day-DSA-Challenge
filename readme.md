@@ -77,3 +77,17 @@
 4.[Josephus problem](https://practice.geeksforgeeks.org/problems/josephus-problem/1)
 
 5.[Recursively remove all adjacent duplicates](https://practice.geeksforgeeks.org/problems/recursively-remove-all-adjacent-duplicates/0)
+
+# Day 7
+
+> GFG
+
+1.[Print the pattern | Set-1](https://practice.geeksforgeeks.org/problems/print-the-pattern-set-1/1)
+
+2.[Print table](https://practice.geeksforgeeks.org/problems/print-table/0)
+
+3.[Series AP](https://practice.geeksforgeeks.org/problems/series-ap/0)
+
+4.[Series GP](https://practice.geeksforgeeks.org/problems/series-gp/0)
+
+5.[Closest Number](https://practice.geeksforgeeks.org/problems/closest-number/0)
