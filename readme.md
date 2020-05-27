@@ -96,7 +96,9 @@
 
 ---
 
-Day 1
+# Day 1
+
+> GFG
 
 1.[Armstrong Numbers](https://practice.geeksforgeeks.org/problems/armstrong-numbers/0)
 
@@ -107,3 +109,5 @@ Day 1
 4.[Print the Kth Digit](https://practice.geeksforgeeks.org/problems/print-the-kth-digit/0)
 
 5.[Binary number to decimal number](https://practice.geeksforgeeks.org/problems/binary-number-to-decimal-number/0)
+
+---
