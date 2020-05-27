@@ -78,6 +78,8 @@
 
 5.[Recursively remove all adjacent duplicates](https://practice.geeksforgeeks.org/problems/recursively-remove-all-adjacent-duplicates/0)
 
+---
+
 # Day 7
 
 > GFG
@@ -91,3 +93,17 @@
 4.[Series GP](https://practice.geeksforgeeks.org/problems/series-gp/0)
 
 5.[Closest Number](https://practice.geeksforgeeks.org/problems/closest-number/0)
+
+---
+
+Day 1
+
+1.[Armstrong Numbers](https://practice.geeksforgeeks.org/problems/armstrong-numbers/0)
+
+2.[Sum of Digit is Pallindrome or not](https://practice.geeksforgeeks.org/problems/sum-of-digit-is-pallindrome-or-not/0)
+
+3.[Reverse digits](https://practice.geeksforgeeks.org/problems/reverse-digit/0)
+
+4.[Print the Kth Digit](https://practice.geeksforgeeks.org/problems/print-the-kth-digit/0)
+
+5.[Binary number to decimal number](https://practice.geeksforgeeks.org/problems/binary-number-to-decimal-number/0)
