@@ -64,6 +64,25 @@
 
 ---
 
+#Day 4
+
+> GFG
+
+1.[GCD of two numbers](https://practice.geeksforgeeks.org/problems/gcd-of-two-numbers/0)
+Mathematics is solved here
+
+2.[LCM And GCD](https://practice.geeksforgeeks.org/problems/lcm-and-gcd/0)
+Mathematics is solved here
+
+3.[Add two fractions](https://practice.geeksforgeeks.org/problems/add-two-fractions/1)
+Mathematics is solved here
+
+4.[GCD of Array](https://practice.geeksforgeeks.org/problems/gcd-of-array/0)
+Mathematics is solved here
+
+5.[Factorial](https://practice.geeksforgeeks.org/problems/factorial/0)
+Mathematics is solved here
+
 # Day 6
 
 > GFG
