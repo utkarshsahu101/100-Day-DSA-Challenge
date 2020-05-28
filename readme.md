@@ -6,6 +6,10 @@
 
 [7.Reverse Integer](https://leetcode.com/problems/reverse-integer/)
 
+```
+Explaination for test case
+```
+
 > GFG
 
 1.[Operating an array](https://practice.geeksforgeeks.org/problems/operating-an-array/1)
@@ -84,6 +88,16 @@ Mathematics is solved here
 Mathematics is solved here
 
 ---
+
+# Day 5
+
+> GFG
+
+1.[nPr](https://practice.geeksforgeeks.org/problems/npr/0)
+
+2.[nCr](https://practice.geeksforgeeks.org/problems/ncr/0)
+
+3.[Pair cube count](https://practice.geeksforgeeks.org/problems/pair-cube-count/0)
 
 # Day 6
 
