@@ -64,7 +64,7 @@
 
 ---
 
-#Day 4
+# Day 4
 
 > GFG
 
@@ -82,6 +82,8 @@ Mathematics is solved here
 
 5.[Factorial](https://practice.geeksforgeeks.org/problems/factorial/0)
 Mathematics is solved here
+
+---
 
 # Day 6
 
