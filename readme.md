@@ -72,30 +72,41 @@ Explaination for test case
 
 > GFG
 
-1.[GCD of two numbers](https://practice.geeksforgeeks.org/problems/gcd-of-two-numbers/0)
+```
 Mathematics is solved here
+```
+
+1.[GCD of two numbers](https://practice.geeksforgeeks.org/problems/gcd-of-two-numbers/0)
 
 2.[LCM And GCD](https://practice.geeksforgeeks.org/problems/lcm-and-gcd/0)
-Mathematics is solved here
 
 3.[Add two fractions](https://practice.geeksforgeeks.org/problems/add-two-fractions/1)
-Mathematics is solved here
 
 4.[GCD of Array](https://practice.geeksforgeeks.org/problems/gcd-of-array/0)
-Mathematics is solved here
 
 5.[Factorial](https://practice.geeksforgeeks.org/problems/factorial/0)
-Mathematics is solved here
 
 ---
 
 # Day 5
+
+```
+Mathematics is solved here
+```
 
 > GFG
 
 1.[nPr](https://practice.geeksforgeeks.org/problems/npr/0)
 
 2.[nCr](https://practice.geeksforgeeks.org/problems/ncr/0)
+
+```
+NOT SOLVED
+```
+
+3.[Largest prime factor](https://practice.geeksforgeeks.org/problems/largest-prime-factor/0)
+
+4.[Perfect Numbers](https://practice.geeksforgeeks.org/problems/perfect-numbers/0)
 
 3.[Pair cube count](https://practice.geeksforgeeks.org/problems/pair-cube-count/0)
 
