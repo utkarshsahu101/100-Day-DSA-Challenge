@@ -116,15 +116,34 @@ NOT SOLVED
 
 1.[Print Pattern](https://practice.geeksforgeeks.org/problems/print-pattern/0)
 
-2.[Handshakes](https://practice.geeksforgeeks.org/problems/handshakes/0)
+2.[Tower of Hanoi](https://practice.geeksforgeeks.org/problems/tower-of-hanoi/0)
 
-3.[Tower of Hanoi](https://practice.geeksforgeeks.org/problems/tower-of-hanoi/0)
+3.[Prime Number](https://practice.geeksforgeeks.org/problems/prime-number/0)
 
-4.[Josephus problem](https://practice.geeksforgeeks.org/problems/josephus-problem/1)
+```
+Optimized School Method
+```
 
-5.[Recursively remove all adjacent duplicates](https://practice.geeksforgeeks.org/problems/recursively-remove-all-adjacent-duplicates/0)
+4.[Sieve of Eratosthenes](https://practice.geeksforgeeks.org/problems/sieve-of-eratosthenes/0)
 
----
+```
+void fun(int n)
+{
+    bool prime[n + 1];
+    memset(prime, true, sizeof(prime));
+
+    for (int p = 2; p * p <= n; p++)
+        if (prime[p] == true)
+            for (int i = p * p; i <= n; i += p)
+                prime[i] = false;
+
+    for (int p = 2; p <= n; p++)
+        if (prime[p])
+            cout << p << " ";
+}
+```
+
+5.[Find Nth root of M](https://practice.geeksforgeeks.org/problems/find-nth-root-of-m/0)
 
 # Day 7
 
@@ -157,3 +176,13 @@ NOT SOLVED
 5.[Binary number to decimal number](https://practice.geeksforgeeks.org/problems/binary-number-to-decimal-number/0)
 
 ---
+
+# Day 10
+
+> LeetCode
+
+[136. Single Number](https://leetcode.com/problems/single-number/)
+Bitwise Logic
+
+[9. Palindrome Number](https://leetcode.com/problems/palindrome-number/)
+Math
