@@ -60,12 +60,6 @@ Explaination for test case
 
 2.[Anagram](https://practice.geeksforgeeks.org/problems/anagram/0)
 
-3.[Anagram Palindrome](https://practice.geeksforgeeks.org/problems/anagram-palindrome/0)
-
-```
-Pending
-```
-
 4.[Upper case conversion](https://practice.geeksforgeeks.org/problems/upper-case-conversion/0)
 
 5.[Sort the string in descending order](https://practice.geeksforgeeks.org/problems/sort-the-string-in-descending-order/0)
@@ -112,7 +106,13 @@ NOT SOLVED
 
 4.[Perfect Numbers](https://practice.geeksforgeeks.org/problems/perfect-numbers/0)
 
-3.[Pair cube count](https://practice.geeksforgeeks.org/problems/pair-cube-count/0)
+5.[Pair cube count](https://practice.geeksforgeeks.org/problems/pair-cube-count/0)
+
+6.[Jumping Numbers](https://practice.geeksforgeeks.org/problems/jumping-numbers/0)
+
+```
+TLE
+```
 
 # Day 6
 
