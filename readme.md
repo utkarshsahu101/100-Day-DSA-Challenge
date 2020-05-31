@@ -62,6 +62,10 @@ Explaination for test case
 
 3.[Anagram Palindrome](https://practice.geeksforgeeks.org/problems/anagram-palindrome/0)
 
+```
+Pending
+```
+
 4.[Upper case conversion](https://practice.geeksforgeeks.org/problems/upper-case-conversion/0)
 
 5.[Sort the string in descending order](https://practice.geeksforgeeks.org/problems/sort-the-string-in-descending-order/0)
@@ -186,3 +190,11 @@ Bitwise Logic
 
 [9. Palindrome Number](https://leetcode.com/problems/palindrome-number/)
 Math
+
+# Day 11
+
+> GFG
+
+1.[Sum of all prime numbers between 1 and N.](https://practice.geeksforgeeks.org/problems/sum-of-all-prime-numbers-between-1-and-n/0)
+
+2.[Pairs of prime number](https://practice.geeksforgeeks.org/problems/pairs-of-prime-number/0)
